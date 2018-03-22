@@ -11,6 +11,16 @@ h3, h4 {
     color: #FE642E;
 }
 
+#subtitulo {
+    margin: 10px 0 30px 0;
+    letter-spacing: 6px;
+    font-size: 17px;
+    font-weight: bold;
+    color: #2E2EFE;
+}
+
+#logo {width: 150px; height: 160px;}
+
 .doc {color: #0431B4;}
 
 .container {
@@ -99,7 +109,7 @@ h3, h4 {
     border: 0;
     font-size: 11px !important;
     letter-spacing: 4px;
-    opacity: 0.9;
+    opacity: 1;
 }
 .
  li a, .navbar .navbar-brand {
